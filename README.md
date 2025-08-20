@@ -28,12 +28,12 @@ This repository includes the following files:
 6- Soil detector.png - picture of the materials.
 7- Soil detector schematics.pdf - circuit schematic for the soil detector.
 
-## image of components needed
+## Image of components needed
 <img width="1536" height="598" alt="Soil detector" src="https://github.com/user-attachments/assets/e77204ec-db3e-42c2-8541-9454ec8a0371" />
 
-## the schematics of the soil detector in pdf
+## The schematics of the soil detector in pdf
 [soil detector schematics.pdf](https://github.com/user-attachments/files/21884151/soil.detector.schematics.pdf)
 
-## the physical picture of the soil detector 
+## The physical picture of the soil detector 
 https://mail.google.com/mail/u/0?ui=2&ik=0b14efc365&attid=0.1&permmsgid=msg-a:r-5555883742346365037&th=198c61cb7ef5a78d&view=att&disp=safe&realattid=198c61bf961bb806c3c2&zw
 https://mail.google.com/mail/u/0?ui=2&ik=0b14efc365&attid=0.2&permmsgid=msg-a:r-5555883742346365037&th=198c61cb7ef5a78d&view=att&disp=safe&realattid=198c61bf9615169ebf1&zw
