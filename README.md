@@ -27,3 +27,8 @@ This repository includes the following files:
 5- Soil detector code.ino - Arduino code for the soil detector.
 6- Soil detector.png - picture of the materials.
 7- Soil detector schematics.pdf - circuit schematic for the soil detector.
+
+image of components needed
+<img width="1536" height="598" alt="Soil detector" src="https://github.com/user-attachments/assets/e77204ec-db3e-42c2-8541-9454ec8a0371" />
+
+
