@@ -8,3 +8,5 @@ Name,Quantity,Component
 "D3",1,"Green LED"
 "U3",1," Arduino Uno R3"
 "R2, R3, R4, R5",4,"1 kΩ Resistor"
+switch on/off
+9V battery 
